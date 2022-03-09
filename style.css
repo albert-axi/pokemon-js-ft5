@@ -1,0 +1,14 @@
+.poke-card {
+    border: 2px solid black;
+    min-width: 150px;
+    display: grid;
+    place-content: center;
+}
+
+section#poke-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    margin-top: 1em;
+    justify-content: center;
+}
